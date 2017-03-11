@@ -1,0 +1,2 @@
+migrations_namespace: Chrisguitarguy\CliMigrationExample\Migrations
+migrations_directory: migrations

@@ -1,0 +1,13 @@
+{
+    "name": "chrisguitarguy/cli-migrations-example",
+    "description": "Example integration with percona toolkit",
+    "require": {
+        "doctrine/migrations": "dev-master",
+        "symfony/process": "~3.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Chrisguitarguy\\CliMigrationExample\\": "src/"
+        }
+    }
+}
